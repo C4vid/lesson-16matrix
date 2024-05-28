@@ -5,3 +5,14 @@ if (numbers.includes(27)) {
 } else {
   console.log("27 tapilmadi!");
 }
+
+
+// let n = 41;
+
+// for (i = 1; i <= n; i++) {
+//   if (i = 27) {
+//     console.log("27 tapildi!");
+//   } else {
+//     console.log("27 tapilmadi!");
+//   }
+// }

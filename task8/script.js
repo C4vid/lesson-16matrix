@@ -1,4 +1,4 @@
-let countryCode = +34;
+let countryCode = +999;
 
 switch (countryCode) {
   case +994:
@@ -26,6 +26,6 @@ switch (countryCode) {
     console.log("İspaniya");
     break;
   default:
-    console.log("Bu ölkə kodu mövcuddur.");
+    console.log("Bu ölkə kodu mövcud deyil.");
     break;
 }
